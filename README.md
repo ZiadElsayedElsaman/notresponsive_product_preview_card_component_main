@@ -1,1 +1,1 @@
-# notresponsive_product_preview_card_component_main
+# "50%_zoom_browser"_notresponsive_product_preview_card_component_main
